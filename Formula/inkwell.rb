@@ -5,7 +5,7 @@ class Inkwell < Formula
 
   on_macos do
     url "https://github.com/KristopherGBaker/inkwell/releases/download/v#{version}/inkwell"
-    sha256 "0a6a18b395a47dff5feeaf738e58f3a1af1b2f50cd0d5b271d2fd3f605c3ff20"
+    sha256 "e6624ca4075138df60ed4c26f0cbc2fa5e494a51fb54c3e4aca711a14eab0d91"
   end
 
   def install
