@@ -1,11 +1,11 @@
 class Inkwell < Formula
   desc "Swift static publishing CLI"
   homepage "https://github.com/KristopherGBaker/inkwell"
-  version "0.5.3"
+  version "0.6.0"
 
   on_macos do
     url "https://github.com/KristopherGBaker/inkwell/releases/download/v#{version}/inkwell-macos.tar.gz"
-    sha256 "9f98ab56ac6d1fd763d94923da249360323b2125c1d94418c38d29c0af86c685"
+    sha256 "60efa59779212ccd06a1b1463d58ea479ba5d7f8a48dd4ef23a855b53f7241f9"
   end
 
   def install
