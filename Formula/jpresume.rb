@@ -1,11 +1,11 @@
 class Jpresume < Formula
   desc "Convert western-style resumes to Japanese format (履歴書・職務経歴書)"
   homepage "https://github.com/KristopherGBaker/JPResume"
-  version "0.6.1"
+  version "0.7.0"
 
   on_macos do
     url "https://github.com/KristopherGBaker/JPResume/releases/download/v#{version}/jpresume"
-    sha256 "11c7f5e0d1298a8c2f76066a4749e6224d342a07db1a483c5ed07ec9901c286d"
+    sha256 "b4dc93b340a193d580321742c30560a5e8fa740be2605a0a3d7e460b179d2a8c"
   end
 
   def install
